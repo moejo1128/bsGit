@@ -1,8 +1,4 @@
 Man oh man. This is strange I tells ya. I made a change.
-<<<<<<< HEAD
 I don't like the way this is going. Work. You need to get done.
 Work. I'm done.
-=======
-I don't like the way this is going. Work. I'm done.
->>>>>>> refs/remotes/origin/master
 Additional changes.
